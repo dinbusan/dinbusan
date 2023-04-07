@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&text=Hello%World!&fontSize=40&rotate=8&-nl-&fontAlignY=20&descAlignY=40&fontAlign=70&descAlign=70&desc=Welcome%20to%20Deann's%20page)
+<div align="center" >
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&text=Hello%World!&fontSize=40&rotate=8&-nl-&fontAlignY=20&descAlignY=40&fontAlign=70&descAlign=70&desc=Welcome%20to%20Deann's%20page"/>
+</div>
 
 - Hi, I’m @dinbusan. My name is Deann and I am an aspiring web developer with USA and EU citizenship currently based in Amsterdam, The Netherlands
 - I am thrilled to have just completed an intensive Fullstack JavaScript bootcamp, and am now eager to start my career in software development. With a strong foundation in both front-end and back-end development, I am confident in my ability to build dynamic and responsive web applications using popular frameworks like React, as well as Node.js and other back-end technologies.
