@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&text=Hello%World!&fontSize=40&rotate=8&-nl-&fontAlignY=20&descAlignY=40&fontAlign=70&descAlign=70&desc=Welcome%20to%20Deann's%20page"/>
 </div>
 <div id="badges" align="center">
- <a href="https://https://www.linkedin.com/in/deann-videtto-8481a166/"/>
+ <a href="https://www.linkedin.com/in/deann-videtto-8481a166/"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 </div>
