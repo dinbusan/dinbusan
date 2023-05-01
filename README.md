@@ -28,7 +28,7 @@ HTML5, CSS3, MongoDB, PostgreSQL, UX/UI design, Git, REST APIs, CI/CD, test-driv
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="30" height="30"/>&nbsp;
- <img src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss/tailwindcss-original.svg" title"tailwindcss" width="30" height"30"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title"tailwindcss" width="30" height"30"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title"vscode" width="30" height"30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="30" height="30"/>&nbsp;
 </div>
