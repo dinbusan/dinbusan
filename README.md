@@ -16,7 +16,7 @@
 - Overall, I am a highly motivated and dedicated individual with a strong work ethic, and I am committed to continuously improving my skills and knowledge as a software developer. I am excited about what the future holds and am ready to take on new challenges in the field of software development.
 
 -  I have hands-on experience with a variety of technologies, including: 
-HTML5, CSS3, MongoDB, PostgreSQL, UX/UI design, Git, REST APIs, CI/CD, test-driven development, JavaScript, TypeScrip, Node.js, React.js, and Express.js.
+HTML5, CSS3, MongoDB, PostgreSQL, UX/UI design, Git, REST APIs, CI/CD, test-driven development, JavaScript, TypeScript, Node.js, React.js, and Express.js.
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
